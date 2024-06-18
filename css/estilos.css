@@ -858,9 +858,37 @@ body {
 
 .footer__inputs{
     margin-top: 10px;
-    width: 20px;
+    
     display: flex;
     overflow: hidden;
+}
+
+
+.footer__des1{
+    background-color: #fff;
+    height: 50px;
+    width: 215px;
+    display: block;
+    margin-top: 10px;
+    padding-left: 10px;
+    border-radius: 6px;
+    font-size: 1rem;
+    outline: none;
+    border: none;
+    margin-right: 16px;
+}
+
+
+.footer__des{
+    background-color: #fff;
+    height: 50px;
+    display: block;
+    padding-left: 10px;
+    border-radius: 6px;
+    font-size: 1rem;
+    outline: none;
+    border: none;
+    margin-right: 16px;
 }
 
 .footer__input{
@@ -878,6 +906,7 @@ body {
 .footer__submit{
     margin-left: auto;
     display: inline-block;
+    width: 215px;
     height: 50px;
     padding: 0 20px ;
     background-color: red;
@@ -886,6 +915,14 @@ body {
     color: #fff;
     border-radius: 6px;
     cursor: pointer;
+    height: 50px;
+    display: block;
+    padding-left: 10px;
+    border-radius: 6px;
+    font-size: 1rem;
+    outline: none;
+    border: none;
+    margin-right: 16px;
 }
 
 .footer__copy{
